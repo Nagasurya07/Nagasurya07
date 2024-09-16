@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/naga-jala-suryanarayana-bassa-896b67259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/naga-jala-suryanarayana-bassa-896b67259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-- 📫 How to reach me badcaptain2003ac@gmail.com **badcaptain2003ac@gmail.com**
+- 📫 How to reach me **badcaptain2003ac@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
