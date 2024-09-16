@@ -8,6 +8,7 @@
 - 🔭 I’m currently working on **Artificial intelligence**
 
 - 🌱 I’m currently learning **Full Stack Development**
+- - 🔭 I'm as a technical writer at **geeksforgeeks**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/naga-jala-suryanarayana-bassa-896b67259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/naga-jala-suryanarayana-bassa-896b67259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
