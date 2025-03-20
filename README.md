@@ -28,3 +28,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nagasurya07&show_icons=true&locale=en" alt="nagasurya07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nagasurya07&" alt="nagasurya07" /></p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+----
